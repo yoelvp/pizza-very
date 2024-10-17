@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pizza Delivery</string>
+    <string name="login">Iniciar sesión</string>
+    <string name="enter_email">Ingresa tu correo electŕonico</string>
+    <string name="enter_password">Ingresa tu contraseña</string>
+    <string name="enter_first_name">Ingresa tus nombres</string>
+    <string name="enter_last_name">Ingresa tu apellidos</string>
+    <string name="register">Registrar\n</string>
+    <string name="register_new_account">¿No tienes cuenta? Registrate</string>
+</resources>
