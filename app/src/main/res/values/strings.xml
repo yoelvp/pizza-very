@@ -5,6 +5,9 @@
     <string name="enter_password">Ingresa tu contraseña</string>
     <string name="enter_first_name">Ingresa tus nombres</string>
     <string name="enter_last_name">Ingresa tu apellidos</string>
-    <string name="register">Registrar\n</string>
+    <string name="register">Registrar</string>
     <string name="register_new_account">¿No tienes cuenta? Registrate</string>
+    <string name="logout">Cerrar sesión</string>
+    <string name="create_pizza">Registrar nueva pizza</string>
+    <string name="register_pizza">Crear pizza</string>
 </resources>
